@@ -1,2 +1,2 @@
-# python_102
-Python 102 - Siva mama Course - 2023-2024
+# Python_102
+Python 102 - Siva Sir Course - 2023-2024
